@@ -1,0 +1,51 @@
+.about-Us{
+ margin-bottom: 163px;
+}
+.about-Us-bag-one{
+ display: flex;
+}
+.about-Us-bag-two{
+ margin-left: 50px;
+}
+.about-Us-bag-two-heading{
+ margin: 0;
+ padding: 0;
+ margin-bottom: 30px;
+ font-family:inherit;
+ font-style: normal;
+ font-weight: bold;
+ font-size: 36px;
+ line-height: 27px; 
+ color: #222831;
+}
+.about-Us-bag-two-onetext{
+ margin: 0 0 35px 0 ;
+ padding:0;
+ font-style: normal;
+ font-weight: normal;
+ font-size: 18px;
+ line-height: 27px;
+ color: #222831;
+}
+.about-Us-bag-two-twotext{
+ margin:0 0 63px 0;  
+ color: #000000;
+ opacity: 0.5;
+}
+.about-Us-bag-two-link{
+ text-decoration: none;
+ color: black;
+ margin: 0;
+ padding: 0;
+ padding: 10px 70px;
+ font-size: 18px;
+ border:1px solid black;
+
+ &:hover{
+  background-color:#222831 ;
+  color: #ffff;
+  transition: ease 0.5s;
+  overflow: hidden;
+  z-index: 1;
+ }
+}

@@ -1,0 +1,54 @@
+.div{
+ display: block;
+}
+.input-section{
+  background-color: #242424;
+  margin-bottom: 130px;
+}
+.input-text{
+   font-size: 18px;
+   font-family: sans-serif;
+   padding-left: 0px;
+   padding-top: 30px;
+   padding-bottom: 40px;
+   
+}
+.input-strong{
+   font-size: 24px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.input-name{
+  width: 22%;
+  display: inline-block;
+  margin-bottom: 18px;
+  margin-top: 0;
+  margin-left: 0;
+  padding: 15px;
+  font-size: 20px;
+}
+.input-textarea{
+  display: inline-block;
+  resize: vertical;
+  width: 52%;
+  max-height: 52px;
+  margin-right:30px;
+  margin-left:15px;
+  padding: 15px;
+  color: #919191;
+  margin-bottom: 0;
+  font-size: 20px;
+}
+
+.input-text{
+  width: 230px;
+  color: #FFFFFF;
+}
+.input-button{
+  display: inline-block;
+  width: 20%;
+  padding: 15px;
+  background-color: #242424; ;
+  border: 2px solid rgb(238, 142, 17);
+  color: rgb(238, 142, 17);
+  font-size: 20px;
+  }

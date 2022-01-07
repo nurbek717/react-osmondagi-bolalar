@@ -1,0 +1,39 @@
+.internet{
+ margin-bottom: 400px;
+}
+
+.internet-text{
+width: 200px;
+font-size: 16px;
+margin-bottom: 35px;
+
+
+}
+.internet-strong{
+font-size: 29px;
+}
+
+.internet-itme{
+list-style: none;
+display: flex;
+justify-content: space-around;
+background-color:#FFFFFF;
+text-decoration: none;
+}
+.internet-list{
+padding: 40px;
+display: flex;
+align-items: center;
+}
+.internet-list-img{
+margin: 10px;
+}
+.internet-list-link-strong{
+color: #000000;
+opacity: none;
+}
+.internet-list-link{
+color: #242424;
+opacity: 0.7;
+text-decoration: none;
+}

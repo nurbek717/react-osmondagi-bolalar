@@ -1,0 +1,26 @@
+.header-bag{
+ display: flex;
+ align-items: center;
+}
+.header-bag-img{
+margin: 15px;
+}
+.header-bag-itme{
+ margin-left: auto;
+ display: flex;
+ list-style: none;
+}
+.header-bag-list{
+ padding: 20px;
+}
+.header-bag-list-link:hover{
+ color: #FFD369;
+}
+.header-bag-list-link{
+ text-decoration: none;
+ font-family:monospace;
+ font-size: 20px;
+ line-height: 19px;
+ /* identical to box height */
+ color: #FFFFFF;
+}
